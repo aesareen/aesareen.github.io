@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hey there! I am **Arnav Sareen**, a second-year student at UNC Charlotte majoring in both Computer Science (with a concentration in AI, Robotics, and Gaming) and Data Science, with a minor in statistics. Thank you so much for checking out my webpage!
+Hey there! I am **Arnav Sareen**, a second-year [Levine Scholar](https://levinescholars.charlotte.edu/) at UNC Charlotte majoring in both Computer Science (with a concentration in AI, Robotics, and Gaming) and Data Science, with a minor in statistics. Thank you so much for checking out my webpage!
 
 I am passionate about learning new things and hopefully one day leveraging the things I can learn to help others. That's why I decided to pick technology as my career focus: it has an unprecedented ability to impact the lives of countless people in a way no other innovation quite has. 
 
