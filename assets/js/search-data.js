@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/3162-portfolio/";
@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/3162-portfolio/projects/";
           },
-        },{
+        },{id: "post-project-one-cities-rediscovering-themselves-the-aftermath-of-local-law-18-in-new-york-city-39-s-airbnb-market-across-the-boroughs",
+      
+        title: "Project One - Cities Rediscovering Themselves: The Aftermath of Local Law 18 in...",
+      
+      description: "The biggest city in the world effectively banned short-term homestays. How did each borough react?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/3162-portfolio/blog/2025/project1/";
+        
+      },
+    },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
