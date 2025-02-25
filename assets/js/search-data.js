@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/3162-portfolio/projects/";
           },
-        },{id: "post-project-one-cities-rediscovering-themselves-the-aftermath-of-local-law-18-in-new-york-city-39-s-airbnb-market-across-the-boroughs",
+        },{id: "post-project-two-educationally-influenced-predicting-the-academic-success-rates-of-students-in-cyprus",
+      
+        title: "Project Two - Educationally Influenced: Predicting the Academic Success Rates of Students in...",
+      
+      description: "Trying to answer the old age question for teachers: What are the things that determine high-performing students and how can we see which students are more likely to be academically successful?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/3162-portfolio/blog/2025/project2/";
+        
+      },
+    },{id: "post-project-one-cities-rediscovering-themselves-the-aftermath-of-local-law-18-in-new-york-city-39-s-airbnb-market-across-the-boroughs",
       
         title: "Project One - Cities Rediscovering Themselves: The Aftermath of Local Law 18 in...",
       
