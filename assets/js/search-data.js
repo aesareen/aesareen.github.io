@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/3162-portfolio/projects/";
           },
-        },{id: "post-project-two-educationally-influenced-predicting-the-academic-success-rates-of-students-in-cyprus",
+        },{id: "post-project-three-catching-the-bag-forecasting-the-nfl-wide-receiver-contracts-based-upon-historical-statistics",
+      
+        title: "Project Three - Catching the Bag: Forecasting the NFL Wide Receiver Contracts Based...",
+      
+      description: "Amid the massive spending in NFL free agency, can we truly answer whether teams are doling out good contracts? Is there a way to qualitatively predict what a player should be paid based upon their output and production?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/3162-portfolio/blog/2025/project3/";
+        
+      },
+    },{id: "post-project-two-educationally-influenced-predicting-the-academic-success-rates-of-students-in-cyprus",
       
         title: "Project Two - Educationally Influenced: Predicting the Academic Success Rates of Students in...",
       
