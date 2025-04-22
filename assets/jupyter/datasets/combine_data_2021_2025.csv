@@ -1,0 +1,201 @@
+,year,name,college,pos,height,weight,forty,bench,vertical,broad jump,shuttle,3-cone
+0,2021,Jonathan Adams,Arkansas State,WR,74.00,210,4.59,,39.0,132,4.38,7.04
+1,2021,Tutu Atwell,Louisville,WR,68.88,155,4.39,,33.0,117,4.09,6.87
+2,2021,Jhamon Ausbon,Texas A&M,WR,74.38,217,4.72,,33.0,118,4.28,6.89
+3,2021,Kawaan Baker,South Alabama,WR,72.50,210,4.45,21,39.5,129,4.41,7.42
+4,2021,Rashod Bateman,Minnesota,WR,72.38,190,4.43,,36.0,123,4.35,6.95
+5,2021,Tarik Black,Texas,WR,74.75,213,4.54,15,40.0,132,4.26,6.91
+6,2021,Rico Bussey,Hawaii,WR,72.38,186,4.50,13,38.5,124,4.26,7.21
+7,2021,Jalen Camp,Georgia Tech,WR,73.88,226,4.48,29,39.5,125,4.14,7.00
+8,2021,Ja'Marr Chase,Louisiana State,WR,72.38,201,4.34,,41.0,132,3.99,6.96
+9,2021,Nico Collins,Michigan,WR,76.13,215,4.45,14,37.5,125,4.32,6.79
+10,2021,Donnie Corley,Texas Southern,WR,73.75,195,4.59,13,34.0,123,4.29,6.83
+11,2021,Damonte Coxie,Memphis,WR,74.13,198,4.77,4,30.5,122,4.45,6.92
+12,2021,Frank Darby,Arizona State,WR,72.00,201,4.61,19,34.5,117,4.23,7.15
+13,2021,Jaelon Darden,North Texas,WR,67.63,174,4.46,11,35.5,122,4.10,6.67
+14,2021,D'Wayne Eskridge,Western Michigan,WR,68.75,190,4.40,,35.0,124,4.27,6.95
+15,2021,Dez Fitzpatrick,Louisville,WR,73.75,208,4.49,,35.0,100,4.25,7.06
+16,2021,Bailey Gaither,San Jose State,WR,72.00,188,4.48,9,31.0,121,4.39,7.07
+17,2021,Trevon Grimes,Florida,WR,76.00,220,4.50,15,35.0,118,4.26,7.00
+18,2021,Adrian Hardy,Louisiana Tech,WR,73.00,205,4.61,12,37.5,124,4.50,6.96
+19,2021,Jacob Harris,Central Florida,WR,77.00,219,4.43,15,40.5,133,4.31,6.51
+20,2021,Damon Hazelton,Missouri,WR,74.75,206,4.64,,37.5,120,4.32,7.11
+21,2021,Josh Imatorbhebhe,Illinois,WR,72.88,218,4.53,24,46.5,134,4.38,7.10
+22,2021,Warren Jackson,Colorado State,WR,78.00,219,4.72,11,33.5,123,4.51,7.71
+23,2021,Terrell Jana,Virginia,WR,71.13,195,4.69,17,32.0,110,4.13,7.05
+24,2021,Cade Johnson,South Dakota State,WR,70.63,184,4.51,11,35.0,114,,
+25,2021,Tim Jones,Southern Mississippi,WR,72.75,203,4.47,17,40.0,124,4.14,7.02
+26,2021,Branden Mack,Temple,WR,77.00,217,4.66,11,31.0,115,4.37,7.13
+27,2021,Terrace Marshall Jr.,Louisiana State,WR,74.50,205,4.40,19,39.0,125,,
+28,2021,Khalil McClain,Troy (AL),WR,74.88,214,4.70,15,32.0,114,4.50,7.72
+29,2021,Racey McMath,Louisiana State,WR,74.50,211,4.39,,34.0,125,4.40,7.37
+30,2021,Osirus Mitchell,Mississippi State,WR,77.00,206,4.61,12,35.5,128,4.34,7.12
+31,2021,Elijah Moore,Mississippi,WR,69.50,178,4.35,17,36.0,121,4.00,6.67
+32,2021,Rondale Moore,Purdue,WR,67.00,181,4.32,,42.5,126,4.10,6.68
+33,2021,Dazz Newsome,North Carolina,WR,70.13,190,4.59,12,34.0,121,4.39,7.39
+34,2021,Tre Nixon,Central Florida,WR,72.13,187,4.44,18,35.5,125,4.25,6.81
+35,2021,Antonio Nunn,Buffalo,WR,71.00,204,4.50,15,33.5,120,4.32,7.12
+36,2021,Josh Palmer,Tennessee,WR,73.25,210,4.52,,34.0,124,4.24,6.98
+37,2021,Whop Philyor,Indiana,WR,69.63,184,4.58,14,31.0,120,4.38,7.20
+38,2021,Cornell Powell,Clemson,WR,72.25,204,4.53,16,36.5,128,4.21,7.03
+39,2021,Blake Proehl,East Carolina (NC),WR,73.88,186,4.47,12,36.0,126,4.20,7.00
+40,2021,Amari Rodgers,Clemson,WR,69.50,212,4.52,19,33.0,121,4.31,7.07
+41,2021,T.J. Simmons,West Virginia,WR,73.38,208,4.59,13,32.0,120,4.55,7.22
+42,2021,Bennett Skowronek,Notre Dame,WR,74.88,220,,13,,118,,
+43,2021,Brandon Smith,Iowa,WR,73.38,218,4.64,21,39.0,130,,
+44,2021,DeVonta Smith,Alabama,WR,72.25,170,,,,131,,
+45,2021,Shi Smith,South Carolina,WR,69.50,186,4.46,,36.0,123,4.22,6.79
+46,2021,Ihmir Smith-Marsette,Iowa,WR,72.75,181,4.50,10,37.0,124,4.23,7.06
+47,2021,Amon-Ra St. Brown,Southern California,WR,71.50,197,4.61,20,38.5,127,4.26,6.90
+48,2021,Marquez Stevenson,Houston,WR,70.13,180,4.48,,33.0,122,4.21,6.86
+49,2021,Dillon Stoner,Oklahoma State,WR,72.13,194,4.57,16,37.0,123,4.18,6.95
+50,2021,Eli Stove,Auburn,WR,71.38,194,4.54,14,30.5,119,4.40,7.34
+51,2021,Michael Strachan,Charleston (WV),WR,77.38,226,4.54,20,35.0,127,4.36,6.96
+52,2021,Sage Surratt,Wake Forest,WR,74.50,209,4.70,,,115,4.25,
+53,2021,Kadarius Toney,Florida,WR,71.63,193,4.38,9,39.5,136,4.23,6.88
+54,2021,Austin Trammell,Rice (TX),WR,70.13,181,4.62,21,40.0,124,4.11,6.75
+55,2021,T.J. Vasher,Texas Tech,WR,77.63,203,,,37.0,121,,
+56,2021,Tyler Vaughns,Southern California,WR,74.00,184,4.69,7,31.5,120,4.40,7.15
+57,2021,Jaylen Waddle,Alabama,WR,69.50,180,,,,122,,
+58,2021,Tylan Wallace,Oklahoma State,WR,71.38,194,4.50,11,33.0,112,4.25,6.97
+59,2021,Austin Watkins,Alabama-Birmingham,WR,73.50,209,4.56,18,,133,,
+60,2021,Marlon Williams,Central Florida,WR,71.25,209,4.66,14,33.5,119,4.57,
+61,2021,Seth Williams,Auburn,WR,75.00,211,4.49,12,37.0,124,4.43,7.20
+63,2022,Kevin Austin,Notre Dame,WR,74.38,200,4.43,,39.0,132,4.15,
+64,2022,David Bell,Purdue,WR,72.88,212,4.68,,33.0,118,4.57,
+65,2022,Slade Bolden,Alabama,WR,70.63,193,4.66,,32.0,116,,
+66,2022,Treylon Burks,Arkansas,WR,73.88,224,4.55,12,33.0,122,4.40,
+67,2022,DaiJean Dixon,Nicholls State (LA),WR,74.63,205,4.62,,34.0,125,4.42,
+68,2022,Jahan Dotson,Penn State,WR,70.63,178,4.43,,36.0,121,,
+69,2022,Romeo Doubs,Nevada,WR,73.88,201,,,,,,
+70,2022,Dontario Drummond,Mississippi,WR,72.88,215,4.65,,34.0,122,,
+71,2022,Erik Ezukanma,Texas Tech,WR,73.88,209,4.55,10,36.5,126,4.38,
+72,2022,Ty Fryfogle,Indiana,WR,73.13,209,4.53,13,39.0,127,4.47,7.15
+73,2022,Danny Gray,Southern Methodist (TX),WR,71.88,186,4.33,,34.0,126,,
+74,2022,Johnny Johnson,Oregon,WR,71.88,197,4.60,,32.0,121,4.54,
+75,2022,Josh Johnson,Tulsa (OK),WR,70.50,179,4.62,14,,,,
+76,2022,Velus Jones Jr.,Tennessee,WR,71.75,204,4.31,,33.0,121,,
+77,2022,DEriq King,Miami (FL),WR,68.75,196,,,,,,
+78,2022,Drake London,Southern California,WR,75.88,219,,,,,,
+79,2022,Bo Melton,Rutgers,WR,71.00,189,4.34,,38.0,121,,
+80,2022,John Metchie,Alabama,WR,71.25,187,,,,,,
+81,2022,Skyy Moore,Western Michigan,WR,69.63,195,4.41,,34.5,125,4.32,
+82,2022,Jalen Nailor,Michigan State,WR,71.25,186,4.50,,38.0,128,4.28,
+83,2022,Chris Olave,Ohio State,WR,72.38,187,4.39,,32.0,124,,
+84,2022,Kyle Philips,UCLA,WR,71.25,189,4.58,,33.5,124,,
+85,2022,George Pickens,Georgia,WR,75.25,195,4.47,,33.0,125,,
+86,2022,Alec Pierce,Cincinnati,WR,75.13,211,4.41,,40.5,129,4.28,
+87,2022,Makai Polk,Mississippi State,WR,75.13,195,4.59,,31.0,119,4.36,
+88,2022,Charleston Rambo,Miami (FL),WR,72.63,177,4.57,,33.5,118,,
+89,2022,Reggie Roberson,Southern Methodist (TX),WR,71.00,192,,,29.0,114,,
+90,2022,Wan'Dale Robinson,Kentucky,WR,68.00,178,4.44,,34.5,118,,
+91,2022,Justyn Ross,Clemson,WR,75.63,205,,11,,,,
+92,2022,Braylon Sanders,Mississippi,WR,72.13,194,4.48,,34.5,121,,
+93,2022,Khalil Shakir,Boise State,WR,71.88,196,4.43,,34.5,124,4.21,
+94,2022,Tyquan Thornton,Baylor,WR,74.38,181,4.28,,36.5,130,,
+95,2022,Jalen Tolbert,South Alabama,WR,73.63,193,4.49,,36.0,123,4.24,
+96,2022,Tre Turner,Virginia Tech,WR,73.38,184,4.51,,30.0,113,4.53,
+97,2022,Christian Watson,North Dakota State,WR,76.13,208,4.36,,38.5,136,,
+98,2022,Isaiah Weston,Northern Iowa,WR,75.50,214,4.42,20,40.0,135,,
+99,2022,Devon Williams,Oregon,WR,77.00,210,4.65,,33.0,133,,
+100,2022,Jameson Williams,Alabama,WR,73.50,179,,,,,,
+101,2022,Garrett Wilson,Ohio State,WR,71.75,183,4.38,,36.0,123,4.36,
+102,2022,Michael Woods,Oklahoma,WR,73.50,203,4.55,,34.5,125,4.46,7.07
+103,2023,Jordan Addison,Southern California,WR,71.13,173,4.49,,34.0,122,4.19,7.05
+104,2023,Ronnie Bell,Michigan,WR,71.63,191,4.54,14,38.5,120,4.15,6.62
+105,2023,Kayshon Boutte,Louisiana State,WR,71.25,195,4.50,,29.0,118,4.25,
+106,2023,Jalen Brooks,South Carolina,WR,73.00,200,4.69,15,35.0,130,4.31,7.23
+107,2023,Jason Brownlee,Southern Mississippi,WR,74.00,198,4.59,16,39.5,131,4.32,6.91
+108,2023,Jacob Copeland,Maryland,WR,71.25,201,4.42,20,33.0,127,4.47,
+109,2023,Derius Davis,Texas Christian,WR,68.38,165,4.36,,,,4.38,
+110,2023,Nathaniel Dell,Houston,WR,68.38,165,4.49,,,121,,
+111,2023,Dontay Demus,Maryland,WR,75.13,212,4.57,,35.5,123,4.39,
+112,2023,Demario Douglas,Liberty (VA),WR,68.25,179,4.44,12,39.5,134,4.29,7.05
+113,2023,Josh Downs,North Carolina,WR,68.75,171,4.48,,38.5,131,4.15,6.75
+114,2023,Grant DuBose,North Carolina Charlotte,WR,74.38,201,4.57,,35.0,125,4.32,
+115,2023,Zay Flowers,Boston College,WR,69.25,182,4.42,,35.5,127,,
+116,2023,Bryce Ford-Wheaton,West Virginia,WR,75.75,221,4.38,,41.0,129,4.15,
+117,2023,Antoine Green,North Carolina,WR,73.75,199,4.47,,33.5,123,4.27,
+118,2023,Jadon Haselwood,Arkansas,WR,74.25,215,4.66,,37.0,123,4.31,
+119,2023,Malik Heath,Mississippi,WR,74.38,213,4.64,,34.0,124,4.46,
+120,2023,Elijah Higgins,Stanford,WR,75.00,239,4.54,17,35.0,126,4.50,7.13
+121,2023,Xavier Hutchinson,Iowa State,WR,73.88,203,4.53,13,36.0,116,4.35,
+122,2023,Jalin Hyatt,Tennessee,WR,72.13,184,4.40,,40.0,135,4.33,7.06
+123,2023,Andrei Iosivas,Princeton,WR,75.13,205,4.43,19,39.0,128,4.12,
+124,2023,Kearis Jackson,Georgia,WR,71.38,196,4.55,,,126,,
+125,2023,Rakim Jarrett,Maryland,WR,71.88,192,4.44,13,35.5,123,,
+126,2023,Michael Jefferson,Louisiana-Lafayette,WR,75.75,199,4.56,16,37.0,133,4.56,6.94
+127,2023,Jaray Jenkins,Louisiana State,WR,73.63,204,4.60,20,29.5,,,
+128,2023,C.J. Johnson,East Carolina (NC),WR,73.50,224,,,,,,
+129,2023,Quentin Johnston,Texas Christian,WR,74.75,208,4.52,,40.5,134,,
+130,2023,Charlie Jones,Purdue,WR,71.38,176,4.43,13,36.5,124,4.15,6.84
+131,2023,Malik Knowles,Kansas State,WR,74.25,196,,,,,,
+132,2023,Matt Landers,Arkansas,WR,76.38,200,4.37,,37.0,130,,
+133,2023,Marvin Mims,Oklahoma,WR,70.88,183,4.38,,39.5,129,,
+134,2023,Jonathan Mingo,Mississippi,WR,73.75,220,4.46,22,39.5,129,4.25,7.04
+135,2023,Jalen Moreno-Cropper,Frenso State (CA),WR,71.13,172,4.40,,,121,,
+136,2023,Puka Nacua,Brigham Young,WR,73.63,210,4.57,15,33.0,121,4.36,7.32
+137,2023,Joseph Ngata,Clemson,WR,75.13,223,4.54,15,34.5,124,4.22,7.29
+138,2023,Trey Palmer,Nebraska,WR,72.25,192,4.33,,29.5,114,4.26,7.13
+139,2023,A.T. Perry,Wake Forest,WR,75.50,198,4.47,,35.0,133,,
+140,2023,Jayden Reed,Michigan State,WR,70.88,191,4.45,13,33.5,121,4.29,
+141,2023,Rashee Rice,Southern Methodist (TX),WR,72.63,204,4.51,,41.0,128,4.23,7.02
+142,2023,Tyler Scott,Cincinnati,WR,69.88,177,4.44,15,39.5,133,4.25,6.99
+143,2023,Justin Shorter,Florida,WR,76.25,229,4.55,18,35.5,126,,
+144,2023,Jaxon Smith-Njigba,Ohio State,WR,72.63,196,4.52,,35.0,125,3.93,
+145,2023,Cedric Tillman,Tennessee,WR,75.38,213,4.54,,37.0,128,,7.32
+146,2023,Mitchell Tinsley,Penn State,WR,72.00,199,4.60,14,35.5,120,4.21,6.70
+147,2023,Tre Tucker,Cincinnati,WR,68.63,182,4.40,16,37.5,124,4.49,7.07
+148,2023,Parker Washington,Penn State,WR,69.75,204,,16,,,,
+149,2023,Jalen Wayne,South Alabama,WR,73.75,216,4.51,,34.5,124,4.51,7.43
+150,2023,Dontayvion Wicks,Virginia,WR,73.38,206,4.62,,39.0,130,,
+151,2023,Michael Wilson,Stanford,WR,73.88,213,4.58,23,37.5,125,4.27,6.81
+152,2024,Javon Baker,Central Florida,WR,73.25,202,4.54,,37.0,121,,
+153,2024,Jermaine Burton,Alabama,WR,72.25,196,4.45,,38.5,133,,
+154,2024,Jalen Coker,Holy Cross (MA),WR,73.38,208,4.57,12,42.5,128,,
+155,2024,Keon Coleman,Florida State,WR,75.25,213,4.61,,38.0,127,,
+156,2024,Malachi Corley,Western Kentucky,WR,70.63,207,4.56,,,,4.22,
+157,2024,Jacob Cowing,Arizona,WR,68.38,168,4.38,13,36.0,119,4.32,7.02
+158,2024,Ryan Flournoy,Southeast Missouri State,WR,72.75,202,4.44,19,39.5,132,4.37,7.08
+159,2024,Troy Franklin,Oregon,WR,73.88,176,4.41,,39.0,124,4.31,6.90
+160,2024,Anthony Gould,Oregon State,WR,68.38,174,4.39,,39.5,129,4.16,6.94
+161,2024,Lideatrick Griffin,Mississippi State,WR,70.00,181,4.43,,35.5,124,4.35,7.00
+162,2024,Marvin Harrison,Ohio State,WR,75.25,209,,,,,,
+163,2024,Jha'Quan Jackson,Tulane (LA),WR,69.13,188,4.42,12,32.0,118,,
+164,2024,Cornelius Johnson,Michigan,WR,74.75,212,4.44,13,37.5,127,4.37,6.93
+165,2024,Xavier Legette,South Carolina,WR,73.00,221,4.39,24,40.0,126,,
+166,2024,Luke McCaffrey,Rice (TX),WR,73.63,198,4.46,,36.0,121,4.02,6.70
+167,2024,Ladd McConkey,Georgia,WR,71.63,186,4.39,13,36.0,124,3.97,6.72
+168,2024,Jalen McMillan,Washington,WR,73.00,197,4.47,,37.0,127,4.18,6.94
+169,2024,Bub Means,Pittsburgh,WR,73.00,227,4.43,19,39.5,122,4.40,
+170,2024,Adonai Mitchell,Texas,WR,74.25,205,4.34,,39.5,136,,
+171,2024,Malik Nabers,Louisiana State,WR,71.75,200,4.41,15,42.0,129,,
+172,2024,Rome Odunze,Washington,WR,74.88,212,4.45,,39.0,124,4.03,6.88
+173,2024,Ricky Pearsall,Florida,WR,73.00,189,4.41,17,42.0,129,4.05,6.64
+174,2024,Ja'Lynn Polk,Washington,WR,73.38,203,4.52,,37.5,129,,
+175,2024,Brenden Rice,Southern California,WR,74.38,208,4.50,13,36.5,119,4.45,6.95
+176,2024,Tayvion Robinson,Kentucky,WR,70.50,191,4.76,13,32.0,117,4.56,7.02
+177,2024,Marcus Rosemy-Jacksaint,Georgia,WR,73.13,195,4.84,11,35.0,119,4.45,7.35
+178,2024,Ainias Smith,Texas A&M,WR,69.38,190,4.56,21,,,4.26,6.84
+179,2024,Brian Thomas Jr.,Louisiana State,WR,74.88,209,4.33,11,38.5,126,,
+180,2024,Jamari Thrash,Louisville,WR,71.75,188,4.46,,34.0,120,,7.16
+181,2024,Devaughn Vele,Utah,WR,76.00,203,4.47,11,36.0,126,4.33,7.02
+182,2024,Devontez Walker,North Carolina,WR,73.50,193,4.36,,40.5,134,4.30,
+183,2024,Malik Washington,Virginia,WR,68.50,191,4.47,19,42.5,126,4.26,6.87
+184,2024,Tahj Washington,Southern California,WR,69.75,174,4.58,,35.0,122,4.22,6.84
+185,2024,Xavier Weaver,Colorado,WR,72.25,169,4.49,,37.0,127,4.30,7.00
+186,2024,Jordan Whittington,Texas,WR,72.63,205,,18,,,,
+187,2024,Isaiah Williams,Illinois,WR,69.25,182,4.63,17,38.0,123,4.11,6.75
+188,2024,Johnny Wilson,Florida State,WR,78.38,231,4.52,,37.0,128,,
+189,2024,Roman Wilson,Michigan,WR,70.75,185,4.39,12,,,4.07,6.89
+190,2024,Xavier Worthy,Texas,WR,71.25,165,4.21,,41.0,131,,
+191,2024,Tejhaun Palmer,Alabama-Birmingham,WR,73.75,210,4.45,19,35.0,122,,
+192,2021,Simi Fehoko,Stanford,WR,75.88,222,4.43,16,34.5,120,4.26,6.78
+193,2022,Calvin Austin III,Memphis,WR,67.75,170,4.32,11,39.0,135,4.07,6.65
+194,2021,Dyami Brown,North Carolina,WR,72.63,189,4.44,18,35.5,128,4.35,6.85
+195,2021,Anthony Schwartz,Auburn,WR,72.0,186,4.25,,32.0,123,4.25,7.13
+196,2024,Casey Washington,Illinois,WR,72.88,201,4.46,13,39.5,127,4.43,7.39
+197,2021,Dax Milne,Brigham Young,WR,72.63,193,4.56,14,31.0,114,4.22,6.85
+198,2021,Demetric Felton,UCLA,WR,68.62,189,4.59,10,31.5,114,4.50,7.31
+199,2022,Samori Toure,Nebraska,WR,72.75,191,4.48,7,34.5,124,4.22,6.77
+200,2022,Montrell Washington,Samford,WR,68.88,176,4.48,6,36.0,124,4.32,7.25
