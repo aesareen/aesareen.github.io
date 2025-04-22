@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/3162-portfolio/projects/";
           },
-        },{id: "post-project-three-catching-the-bag-forecasting-the-nfl-wide-receiver-contracts-based-upon-historical-statistics",
+        },{id: "post-project-four-clustering-the-future-leveraging-collegiate-and-athletic-data-to-find-nfl-comparisons-for-college-players",
+      
+        title: "Project Four: Clustering the Future - Leveraging Collegiate and Athletic Data to Find...",
+      
+      description: "The NFL Draft is on the horizon and all 32 teams are wondering the same thing: How will these college players translate to the NFL? How can we group college players together to reveal their NFL counterparts?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/3162-portfolio/blog/2025/project4/";
+        
+      },
+    },{id: "post-project-three-catching-the-bag-forecasting-the-nfl-wide-receiver-contracts-based-upon-historical-statistics",
       
         title: "Project Three - Catching the Bag: Forecasting the NFL Wide Receiver Contracts Based...",
       
