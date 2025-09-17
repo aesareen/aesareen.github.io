@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://aesareen.github.io/3162-portfolio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://aesareen.github.io/sitemap.xml
