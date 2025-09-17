@@ -19,3 +19,16 @@ series = {HotStorage '24},
 preview = {ion_thumbnail.png},
 selected={true}
 }
+
+@inproceedings{11078545,
+author = {Egersdoerfer, Chris and Sareen, Arnav and Bez, Jean Luca and Byna, Suren and Xu, Dongkuan DK and Dai, Dong},
+title = {IOAgent: Democratizing Trustworthy HPC I/O Performance Diagnosis Capability via LLMs},
+year = {2025},
+booktitle = {2025 IEEE International Parallel and Distributed Processing Symposium (IPDPS)},
+pages = {322-334},
+doi = {10.1109/IPDPS64566.2025.00036},
+location = {Milan, Italy},
+abstract = {As the complexity of the HPC storage stack rapidly grows, domain scientists face increasing challenges in effectively utilizing HPC storage systems to achieve their desired I/O performance. To identify and address I/O issues, scientists largely rely on I/O experts to analyze their I/O traces and provide insights into potential problems. However, with a limited number of I/O experts and the growing demand for data-intensive applications, inaccessibility has become a major bottleneck, hindering scientists from maximizing their productivity. The recent rapid progress in large language models (LLMs) opens the door to creating an automated tool that democratizes trustworthy I/O performance diagnosis capabilities to domain scientists. However, LLMs face significant challenges in this task, such as the inability to handle long context windows, a lack of accurate domain knowledge about HPC I/O, and the generation of hallucinations during complex interactions. In this work, we propose IOAgent as a systematic effort to address these challenges. IOAgent integrates various new designs, including a module-based pre-processor, a RAG-based domain knowledge integrator, and a tree-based merger to accurately diagnose I/O issues from a given Darshan trace file. Similar to an I/O expert, IOAgent provides detailed justifications and references for its diagnoses and offers an interactive interface for scientists to continue asking questions about the diagnosis. To evaluate IOAgent, we collected a diverse set of labeled job traces and released the first open diagnosis test suite, TraceBench. Based on this test suite, extensive evaluations were conducted, demonstrating that IOAgent matches or outperforms state-of-the-art I/O diagnosis tools with accurate and useful diagnosis results. We also show that IOAgent is not tied to specific LLMs, performing similarly well with both proprietary and open-source LLMs. We believe IOAgent has the potential to become a powerful tool for scientists navigating complex HPC I/O subsystems in the future.},
+preview = {ioagent_thumbnail.png},
+selected = {true}
+}
