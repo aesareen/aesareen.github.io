@@ -2,96 +2,264 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Arnav Sareen
+    - name: Location
+      value: Charlotte, NC, USA
+    - name: Email
+      value: asareen2@charlotte.edu
+    - name: LinkedIn
+      value: https://linkedin.com/in/arnavsareen
+    - name: GitHub
+      value: https://github.com/aesareen
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: "University of North Carolina at Charlotte"
+      institution: "Charlotte, NC"
+      year: "2023–2027"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - >-
+          Bachelor of Science in Computer Science (AI Concentration), Bachelor
+          of Science in Data Science.
+        - >-
+          Honors: Levine Scholar (Premier Merit Scholarship), Chancellor's List
+          — Fall 2023 - Spring 2025.
+        - "GPA: 4.0/4.0"
+    - title: "Tampere University"
+      institution: "Tampere, Finland"
+      year: "Jan–May 2026"
       description:
-        - Description 1.
-        - Description 2.
+        - "Exchange Studies."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Incoming Fulbright Canada MITACS Globalink Research Intern"
+      institution: "University of Waterloo, Waterloo, ON, Canada"
+      year: "May 2026–"
+      description: []
+
+    - title: "Teaching Assistant"
+      institution: "UNC Charlotte College of Computing & Informatics, Charlotte, NC"
+      year: "Aug 2025–Present"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - >-
+          Develop and grade hands-on data mining exercises on clustering,
+          classification, and regression, providing detailed feedback that
+          enhances student comprehension and problem-solving skills.
+        - >-
+          Lead student code review and office hours for a Data Mining course of
+          70+ students, guiding them through classical machine learning
+          techniques.
+
+    - title: "E3 Technical Fellow"
+      institution: "CodePath, Charlotte, NC"
+      year: "Jul 2025–Present"
       description:
-        - Description 1.
-        - Description 2.
+        - >-
+          Mentor 20+ students in computer science and interview preparation,
+          increasing technical interview confidence and results through 1:1
+          guidance.
+        - >-
+          Facilitate mock technical interviews, helping students improve
+          problem-solving efficiency and coding quality through targeted
+          feedback and debugging support.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: "Ignite Fellow"
+      institution: "Teach for America, Remote"
+      year: "Sep–Dec 2025"
       description:
+        - >-
+          Taught middle school students key mathematical topics, increasing
+          engagement, comprehension, and performance via tailored tutoring
+          sessions.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: "Data Science and Analytics Intern"
+      institution: "Trane Technologies, Davidson, NC"
+      year: "May–Dec 2025"
+      description:
+        - >-
+          Pioneered a hybrid, ensemble-based recommendation engine using matrix
+          factorization and deep learning collaborative filtering algorithms to
+          drive a projected $3M in sales and increase user engagement by 30%.
+        - >-
+          Designed a complementary retrieval-augmented generation (RAG) system
+          leveraging AWS Bedrock Agents and Lambda to query Redshift and
+          generate contextualized responses from enterprise data, increasing
+          recommendation effectiveness by 60%.
+        - >-
+          Engineered custom metrics to measure recommendation quality by
+          analyzing business impact via transaction patterns, customer overlap,
+          and item taxonomy that prioritizes more relevant and grounded
+          recommendations.
+        - >-
+          Performed customer segmentation using K-Means clustering to support a
+          waterfall pricing strategy, improving customer spend and optimizing
+          discount thresholds.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "SPOA Research Assistant"
+      institution: "UNC Charlotte Athletics, Davidson, NC"
+      year: "May–Jun 2025"
+      description:
+        - >-
+          Developed intuitive spreadsheets and databases to provide Charlotte
+          Athletics administrators and coaches with clear financial insights,
+          enabling informed decision-making across 17 varsity sports.
+        - >-
+          Architected and implemented a tracking system to manage NIL and
+          performance-based bonus payments, streamlining financial operations
+          within Charlotte Athletics' annual $35M budget.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: "Data Collector"
+      institution: "Pro Football Focus (PFF), Remote"
+      year: "Jun 2024–Jun 2025"
+      description:
+        - >-
+          Collected player participation data for FCS and FBS teams during the
+          2024-2025 season, tracking personnel and position data across 60–70
+          plays per game.
+        - >-
+          Tracked over 120 data points per play with a 98.5% accuracy rate,
+          enabling timely and accurate delivery of game data to clients and
+          improving the quality of downstream analyses.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: "Editor-in-Chief & Web Developer and Media Editor"
+      institution: "ETHEL Undergraduate Research Journal, Charlotte, NC"
+      year: "Jun 2024–Present"
+      description:
+        - >-
+          Re-established the Undergraduate Research Journal at UNC Charlotte,
+          spearheading administrative and student outreach efforts behind the
+          university's premier journal for undergraduate research.
+        - >-
+          Develop the website and curate the digital version of the journal
+          using WordPress and Bricks Builder, implementing SEO and accessibility
+          best practices.
+        - >-
+          Review student submissions and provide editorial feedback to improve
+          clarity, structure, and impact across a variety of disciplines.
 
-- title: Other Interests
+    - title: "AI & HPC Researcher"
+      institution: "Data Intelligence Research (DIR) Lab, UNC Charlotte"
+      year: "Aug 2023–Present"
+      description:
+        - >-
+          Analyze the performance of large language models for interpreting
+          complex high-performance computing (HPC) logs via a scientific
+          paper-based RAG system, reducing hallucination rates.
+        - >-
+          Enhance the performance of language models for I/O trace log analysis,
+          increasing the consistency and accuracy of results by 80% through
+          prompt engineering and evaluation techniques.
+        - >-
+          Utilize LLM evaluation frameworks to benchmark system improvements and
+          guide modifications to the RAG pipeline, increasing development speed
+          and impact.
+
+    - title: "Data Science and AI Engineer Intern"
+      institution: "Charlotte Works, Charlotte, NC"
+      year: "May–Sep 2024"
+      description:
+        - >-
+          Developed a custom AI assistant and chatbot, improving model
+          performance by 70% through advanced RAG techniques such as HyDE and
+          hybrid retrieval and custom data preprocessing.
+        - >-
+          Analyzed labor market data using Python and statistical tools to
+          uncover key labor trends and growth opportunities in Mecklenburg
+          County, leading to actionable suggestions for economic development.
+
+    - title: "ML Research Assistant"
+      institution: "PICTure Research Group, Raleigh, NC"
+      year: "Jun–Aug 2022"
+      description:
+        - >-
+          Improved the efficiency of machine learning-based learned indexes in
+          high-write environments through an optimized retraining model,
+          reducing accuracy degradation by 60%.
+        - >-
+          Presented the capabilities of learned indexes at the NCSSM Mentorship
+          Research Symposium to a diverse audience.
+
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - >-
+      C. Egersdoerfer, A. Sareen, J. L. Bez, S. Byna, D. D. Xu, and D. Dai,
+      "IOAgent: Democratizing Trustworthy HPC I/O Performance Diagnosis
+      Capability via LLMs," 2025 IEEE International Parallel and Distributed
+      Processing Symposium (IPDPS), Milano, Italy, 2025, pp. 322–334.
+      <a href="https://ieeexplore.ieee.org/abstract/document/11078545"
+      target="_blank" rel="noopener noreferrer">doi: 10.1109/IPDPS64566.2025.00036</a>.
+    - >-
+      C. Egersdoerfer, A. Sareen, J. L. Bez, S. Byna, and D. Dai, "ION:
+      Navigating the HPC I/O Optimization Journey using Large Language Models,"
+      Proceedings of the 16th ACM Workshop on Hot Topics in Storage and File
+      Systems (HotStorage), Santa Clara, CA, USA, 2024, pp. 86–92.
+      <a href="https://dl.acm.org/doi/10.1145/3655038.3665950" target="_blank"
+      rel="noopener noreferrer">https://dl.acm.org/doi/10.1145/3655038.3665950</a>.
+
+- title: Technical Presentations
+  type: list
+  contents:
+    - >-
+      "Exploring the Performance of AI-Based HPC I/O Performance Diagnoses
+      Across Multiple Models," State of North Carolina Undergraduate Research
+      and Creativity Symposium, November 2025, Elon, NC (Poster).
+    - >-
+      "I/O Navigator: Enhancing and Benchmarking LLMs for HPC I/O Performance
+      Diagnosis," National Conference on Undergraduate Research, April 2025,
+      Pittsburgh, PA (Poster).
+    - >-
+      "ION: Navigating the HPC I/O Optimization Journey using Large Language
+      Models," Undergraduate Research Initiative Final Poster Presentation, May
+      2024, Charlotte, NC (Poster).
+    - >-
+      "ION: Navigating the HPC I/O Optimization Journey using Large Language
+      Models," UNC Charlotte Undergraduate Research Symposium, April 2024,
+      Charlotte, NC (Poster).
+
+- title: Awards
+  type: list
+  contents:
+    - >-
+      George Barthalmus Undergraduate Research Award: promotes early
+      involvement in research by supporting sophomores in projects of their own
+      design. Awarded 2024.
+    - >-
+      Levine Scholarship: UNC Charlotte's premier undergraduate merit
+      scholarship for students who exemplify intellectual curiosity, commitment
+      to community service, and ethical leadership. Provides up to eight
+      semesters of educational costs plus funding for four summer experiences
+      in outdoor leadership, nonprofit service, pre-professional development,
+      and international education. Awarded 2023.
+    - >-
+      National Cyber Scholar with Honors: earned a top score among high school
+      students nationwide by solving real-world cybersecurity problems and
+      completed the GIAC Foundational Cybersecurity Technologies (GFACT) exam
+      with one of the top 500 scores in the cohort. Awarded 2023.
+
+- title: Technical Skills and Other Affiliations
+  type: map
+  contents:
+    - name: Courses
+      value: >-
+        Data Structures & Algorithms, Computer Systems, Database Design,
+        Operating Systems & Networks, Natural Language Processing, Artificial
+        Intelligence, Machine Learning, Data Mining, Applied Regression,
+        Multivariate Analysis.
+    - name: Languages
+      value: >-
+        Python, Java, SQL, C/C++, SAS, JavaScript, HTML/CSS, RISC-V.
+    - name: Developer Tools
+      value: >-
+        Git, VS Code, AWS SageMaker, AWS Bedrock, AWS Redshift, BigQuery,
+        PyCharm, IntelliJ.
+    - name: Libraries and Tools
+      value: >-
+        Pandas, Polars, NumPy, Matplotlib, DsPy, ChromaDB, Plotly,
+        Scikit-learn, spaCy, BeautifulSoup, Streamlit, Selenium, Flask.
+    - name: Clubs and Organizations
+      value: >-
+        Sports Analytics Club Member, Charlotte AI Research Club Member.
