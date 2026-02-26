@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Super fortunate to have been part of lot of these!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "post-project-four-clustering-the-future-leveraging-collegiate-and-athletic-data-to-find-nfl-comparisons-for-college-players",
       
         title: "Project Four: Clustering the Future - Leveraging Collegiate and Athletic Data to Find...",
