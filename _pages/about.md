@@ -6,7 +6,7 @@ subtitle: <em>We are only human through the humanity of others; that if we are t
 
 profile:
   align: right
-  image: prof_pic_paris.jpg
+  image: prof_pic_in_paris.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
