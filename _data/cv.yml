@@ -7,6 +7,8 @@
       value: Charlotte, NC, USA
     - name: Email
       value: asareen2@charlotte.edu
+    - name: Website
+      value: https://aesareen.github.io/
     - name: LinkedIn
       value: https://linkedin.com/in/arnavsareen
     - name: GitHub
@@ -25,6 +27,7 @@
         - >-
           Honors: Levine Scholar (Premier Merit Scholarship), Chancellor's List
           — Fall 2023 - Spring 2025.
+        - "Chancellor's List — Fall 2023–Spring 2026."
         - "GPA: 4.0/4.0"
     - title: "Tampere University"
       institution: "Tampere, Finland"
@@ -35,14 +38,36 @@
 - title: Experience
   type: time_table
   contents:
-    - title: "Incoming Fulbright Canada MITACS Globalink Research Intern"
-      institution: "University of Waterloo, Waterloo, ON, Canada"
+    - title: "Fulbright Canada MITACS Globalink Research Intern"
+      institution: "SHARE Lab — Advisor: Dr. Sharon Ferguson, University of Waterloo, Waterloo, ON, Canada"
       year: "May 2026–"
-      description: []
+      description:
+        - >-
+          Investigating factors influencing ML/AI career persistence by scraping
+          and analyzing university curricula, mapping experiential-learning gaps,
+          and modeling how academic pathways shape students' perceived career fit.
+
+    - title: "Code In Place Section Leader"
+      institution: "Stanford School of Engineering, Remote"
+      year: "Apr–May 2026"
+      description:
+        - >-
+          Selected as one of 800 section leaders from 2,000+ applicants; taught
+          weekly Python sections for 10+ beginner programmers and provided
+          individualized debugging support.
+
+    - title: "Open Source Contributor"
+      institution: "CodePath, Remote"
+      year: "Oct 2025–Present"
+      description:
+        - >-
+          Contributing to large-scale open-source codebases, including Apache
+          Superset and GitLab, collaborating with maintainers through pull
+          requests and code reviews.
 
     - title: "Teaching Assistant"
       institution: "UNC Charlotte College of Computing & Informatics, Charlotte, NC"
-      year: "Aug 2025–Present"
+      year: "Aug 2025–Dec 2025"
       description:
         - >-
           Develop and grade hands-on data mining exercises on clustering,
@@ -52,10 +77,11 @@
           Lead student code review and office hours for a Data Mining course of
           70+ students, guiding them through classical machine learning
           techniques.
+        - "Role concluded December 2025."
 
     - title: "E3 Technical Fellow"
       institution: "CodePath, Charlotte, NC"
-      year: "Jul 2025–Present"
+      year: "Jul 2025–Dec 2025"
       description:
         - >-
           Mentor 20+ students in computer science and interview preparation,
@@ -124,6 +150,15 @@
           enabling timely and accurate delivery of game data to clients and
           improving the quality of downstream analyses.
 
+    - title: "Fellowship Coordinator"
+      institution: "Strength in Numbers, Charlotte, NC"
+      year: "Jun 2025–Present"
+      description:
+        - >-
+          Created Charlotte's first sports analytics program for high school
+          students, providing underrepresented learners with technical training,
+          industry exposure, and college application guidance.
+
     - title: "Editor-in-Chief & Web Developer and Media Editor"
       institution: "ETHEL Undergraduate Research Journal, Charlotte, NC"
       year: "Jun 2024–Present"
@@ -141,7 +176,7 @@
           clarity, structure, and impact across a variety of disciplines.
 
     - title: "AI & HPC Researcher"
-      institution: "Data Intelligence Research (DIR) Lab, UNC Charlotte"
+      institution: "Data Intelligence Research (DIR) Lab — Advisors: Dr. Dong Dai, Chris Egersdoerfer, Charlotte, NC"
       year: "Aug 2023–Present"
       description:
         - >-
@@ -156,6 +191,14 @@
           Utilize LLM evaluation frameworks to benchmark system improvements and
           guide modifications to the RAG pipeline, increasing development speed
           and impact.
+        - >-
+          Evaluated LLMs for interpreting complex HPC I/O logs using a
+          scientific-paper-grounded RAG system, reducing hallucinations in
+          performance-diagnosis responses.
+        - >-
+          Built an LLM evaluation and benchmarking interface to track RAG pipeline
+          changes, enabling systematic comparison of retrieval, prompting, and
+          generation strategies.
 
     - title: "Data Science and AI Engineer Intern"
       institution: "Charlotte Works, Charlotte, NC"
@@ -224,6 +267,11 @@
   type: list
   contents:
     - >-
+      Barry M. Goldwater Scholarship: Named a 2026 Goldwater Scholar—the
+      preeminent national honor for STEM researchers—for demonstrating
+      exceptional potential in artificial intelligence and parallel computing.
+      Awarded 2026.
+    - >-
       George Barthalmus Undergraduate Research Award: promotes early
       involvement in research by supporting sophomores in projects of their own
       design. Awarded 2024.
@@ -248,7 +296,8 @@
         Data Structures & Algorithms, Computer Systems, Database Design,
         Operating Systems & Networks, Natural Language Processing, Artificial
         Intelligence, Machine Learning, Data Mining, Applied Regression,
-        Multivariate Analysis.
+        Multivariate Analysis, Multivariable Calculus, Computer Architecture,
+        Fine-tuning Large Language Models, Complex Networks.
     - name: Languages
       value: >-
         Python, Java, SQL, C/C++, SAS, JavaScript, HTML/CSS, RISC-V.
